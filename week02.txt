@@ -9,3 +9,9 @@ week02
 	git config --global --list
 	git commit -m "v0"
 	git log
+	git checkout 해시코드
+	git checkout -
+	git branch -M main
+	git remote add origin https://github.com/yoonjinkim0807/test.git
+	git remote -v
+	git push -u origin main
